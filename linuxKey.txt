@@ -1,0 +1,5 @@
+Создал MaximRock
+changet testmaxim file
+
+использовал ключ из widows MaximRock v linux
+all ok
